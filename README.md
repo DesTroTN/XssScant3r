@@ -26,7 +26,8 @@
 
 ### Screen Shoot :
    * ##### Random Website:
-      * <img src="./sc/xss.png">
+      * <img src="https://github.com/DesTroTN/XssScant3r/blob/master/sc/xss.PNG?raw=true" alt="xss" border="0"></a>
+      * <img src="sc/xss.png">
 
 #### OS Support :
 - <h5> Linux</h5>
