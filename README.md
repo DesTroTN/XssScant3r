@@ -26,7 +26,7 @@
 
 ### Screen Shoot :
    * ##### Random Website:
-      * <img src="sc/xss.png">
+      * <img src="./sc/xss.png">
 
 #### OS Support :
 - <h5> Linux</h5>
